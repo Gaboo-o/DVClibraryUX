@@ -1,0 +1,73 @@
+﻿Participant,Task #,Actual Path,Reached Goal,# Valid Steps,# Invalid Steps,Total Steps,Deviation Points
+1,1,library website -> today's hours -> opening hours page,Yes,1,0,1,
+1,2,library website -> study spaces -> study spaces page -> go to date -> space x time,No,1,2,3,study spaces page -> go to date; go to date -> space x time
+1,3,library website -> use the library -> textbooks -> use the library -> textbooks -> one search -> search -> book page,No,1,5,6,library website -> use the library; use the library -> textbooks; textbooks -> use the library; use the library -> textbooks; textbooks -> one search
+1,4,library website -> use the library -> textbooks -> use the library -> textbooks -> one search -> search -> book page -> scope -> books and videos on the library shelves -> search -> book -> sign in -> request item -> pick up location -> send request,Yes,6,8,14,use the library -> textbooks; textbooks -> use the library; use the library -> textbooks; textbooks -> one search; book page -> scope; scope -> books and videos on the library shelves; books and videos on the library shelves -> search; search -> book
+1,5,library website -> use the library -> services for students -> request info -> return -> ask a librarian -> contact page -> chat,Yes,3,3,6,services for students -> request info; request info -> return; return -> ask a librarian
+1,6,library website -> one search -> search -> book page -> databases -> databases page -> academic search complete -> academic search,Yes,2,4,6,library website -> one search; one search -> search; search -> book page; book page -> databases
+2,1,library website -> services for students -> use the library -> about -> visit the library -> use the library -> study spaces -> study spaces page -> about -> about the library -> hours -> opening hours page,Yes,3,7,10,services for students -> use the library; use the library -> about; about -> visit the library; visit the library -> use the library; use the library -> study spaces; study spaces -> study spaces page; study spaces page -> about
+2,2,library website -> services for students -> reserve a study space -> study rooms -> study spaces page -> next -> space x time -> end time -> submit,Yes,6,2,8,reserve a study space -> study rooms; study rooms -> study spaces page
+2,3,library website -> use the library -> borrow library materials -> use the library -> services for students -> interlibrary loan -> library -> library website -> one search -> search -> book page -> personalize,No,2,8,10,library website -> use the library; use the library -> borrow library materials; borrow library materials -> use the library; use the library -> services for students; services for students -> interlibrary loan; interlibrary loan -> library; library -> library website; book page -> personalize
+2,4,library website -> one search -> search -> book page,No,2,0,2,
+2,5,library website -> about -> contact us -> contact page -> email,Yes,3,0,3,
+2,6,library website -> research -> databases a-z -> databases page -> academic search complete -> academic search,Yes,4,0,4,
+3,1,library website -> services for faculties -> library -> library website -> today's hours -> opening hours page,Yes,1,3,4,library website -> services for faculties; services for faculties -> library; library -> library website
+3,2,library website -> study spaces -> study spaces page -> next -> space x time -> submit,Yes,4,0,4,
+3,3,library website -> textbooks -> search -> book page -> course name -> apply filters -> book,Yes,2,3,5,book page -> course name; course name -> apply filters; apply filters -> book
+3,4,library website -> textbooks -> search -> book page -> scope -> books and videos on the library shelves -> search -> book -> sign in -> request item -> pick up location -> send request,Yes,4,6,10,library website -> textbooks; textbooks -> search; book page -> scope; scope -> books and videos on the library shelves; books and videos on the library shelves -> search; search -> book
+3,5,library website -> connect with dvc library -> contact page -> email,Yes,2,0,2,
+3,6,library website -> one search -> search -> databases -> databases page -> academic search complete -> academic search,Yes,2,3,5,library website -> one search; one search -> search; search -> databases
+4,1,library website -> today's hours -> opening hours page,Yes,1,0,1,
+4,2,library website -> study spaces -> study spaces page -> go to date -> next -> space x time -> refresh -> study spaces page -> go to date -> next -> space x time -> submit,Yes,4,6,10,study spaces page -> go to date; go to date -> next; space x time -> refresh; refresh -> study spaces page; study spaces page -> go to date; go to date -> next
+4,3,library website -> study spaces -> study spaces page -> use the library -> textbooks -> one search -> search -> book page -> search -> new search -> databases -> databases page -> subjects -> english -> types -> books -> search -> library -> library website -> one search -> search -> book page -> book,Yes,4,16,20,library website -> study spaces; study spaces -> study spaces page; study spaces page -> use the library; use the library -> textbooks; textbooks -> one search; book page -> search; search -> new search; new search -> databases; databases -> databases page; databases page -> subjects; subjects -> english; english -> types; types -> books; books -> search; search -> library; library -> library website
+4,4,library website -> one search -> search -> book page -> book -> sign in -> request item -> pick up location -> send request,Yes,7,0,7,
+4,5,library website -> about -> contact us -> contact page -> call,Yes,3,0,3,
+4,6,library website -> research -> databases a-z -> databases page -> subjects -> biological sciences -> search -> clear filters -> b -> research -> research help -> ask a librarian -> contact page -> chat -> book page,No,3,10,13,databases page -> subjects; subjects -> biological sciences; biological sciences -> search; search -> clear filters; clear filters -> b; b -> research; research help -> ask a librarian; ask a librarian -> contact page; contact page -> chat; chat -> book page
+5,1,library website -> today's hours -> opening hours page,Yes,1,0,1,
+5,2,library website -> use the library -> study spaces -> study spaces page -> next -> space x time -> submit,Yes,5,0,5,
+5,3,library website -> use the library -> borrow library materials -> use the library -> textbooks -> one search -> search -> book page -> scope -> everything -> search -> book page -> book,Yes,2,8,10,library website -> use the library; use the library -> borrow library materials; borrow library materials -> use the library; use the library -> textbooks; textbooks -> one search; book page -> scope; scope -> everything; everything -> search
+5,4,book page -> scope -> books and videos on the library shelves -> search bar -> search -> book -> sign in -> request item -> pick up location -> send request,Yes,4,5,9,book page -> scope; scope -> books and videos on the library shelves; books and videos on the library shelves -> search bar; search bar -> search; search -> book
+5,5,library website -> events link -> events page,No,0,2,2,library website -> events link; events link -> events page
+5,6,library website -> research -> databases a-z -> databases page -> academic search complete -> academic search,Yes,4,0,4,
+6,1,library website -> today's hours -> opening hours page,Yes,1,0,1,
+6,2,library website -> study spaces -> study spaces page -> go to date -> space x time -> submit,Yes,2,2,4,study spaces page -> go to date; go to date -> space x time
+6,3,library website -> textbooks -> search -> book page -> book,Yes,3,0,3,
+6,4,book page -> book -> sign in -> request item -> pick up location -> send request,Yes,5,0,5,
+6,5,library website -> email -> phone,Yes,0,2,2,library website -> email; email -> phone
+6,6,library website -> one search -> search -> book page -> article,No,0,4,4,library website -> one search; one search -> search; search -> book page; book page -> article
+7,1,library website -> today's hours -> opening hours page,Yes,1,0,1,
+7,2,library website -> study spaces -> study spaces page -> next -> space x time -> end time -> submit,Yes,5,0,5,
+7,3,library website -> one search -> search -> book page -> book,Yes,3,0,3,
+7,4,library website -> services for students -> interlibrary loan -> interlibrary loan request form -> return -> library -> one search -> search -> book page -> book -> sign in -> request item -> pick up location -> send request,Yes,6,6,12,library website -> services for students; services for students -> interlibrary loan; interlibrary loan -> interlibrary loan request form; interlibrary loan request form -> return; return -> library; library -> one search
+7,5,library website -> connect with dvc library -> contact page -> call,Yes,2,0,2,
+7,6,library website -> services for students -> databases a-z -> academic search complete -> academic search,Yes,3,1,4,databases a-z -> academic search complete
+8,1,library website -> study spaces -> study spaces page,No,0,2,2,library website -> study spaces; study spaces -> study spaces page
+8,2,library website -> study spaces -> study spaces page -> next -> space x time -> end time -> submit,Yes,5,0,5,
+8,3,library website -> one search -> search -> book page -> book,Yes,3,0,3,
+8,4,library website -> one search -> search -> book page -> book -> sign in -> request item -> pick up location -> send request,Yes,7,0,7,
+8,5,library website -> connect with dvc library -> contact page -> email,Yes,2,0,2,
+8,6,library website -> services for students -> databases a-z -> academic search complete -> academic search,Yes,3,1,4,databases a-z -> academic search complete
+9,1,library website -> about -> today's hours -> opening hours page,Yes,1,1,2,about -> today's hours
+9,2,library website -> use the library -> study spaces -> study spaces page -> next -> space x time -> end time -> submit,Yes,6,0,6,
+9,3,library website -> textbooks -> search -> book page -> book,Yes,3,0,3,
+9,4,library website -> use the library -> borrow library materials -> how do i borrow materials from another library? -> interlibrary loan request form,No,1,3,4,use the library -> borrow library materials; borrow library materials -> how do i borrow materials from another library?; how do i borrow materials from another library? -> interlibrary loan request form
+9,5,library website -> about -> contact us -> contact page -> call,Yes,3,0,3,
+9,6,library website -> one search -> search -> book page -> article,No,0,4,4,library website -> one search; one search -> search; search -> book page; book page -> article
+10,1,library website -> about -> visit the library -> return -> library website,No,1,3,4,about -> visit the library; visit the library -> return; return -> library website
+10,2,library website -> services for students -> reserve a study space -> study rooms -> study spaces page -> next -> space x time -> end time -> submit,Yes,6,2,8,reserve a study space -> study rooms; study rooms -> study spaces page
+10,3,library website -> one search -> search -> book page -> book,Yes,3,0,3,
+10,4,library website -> one search -> search -> book page -> textbooks / reserves -> request books -> how do i borrow materials from another library? -> interlibrary loan request form,No,2,4,6,book page -> textbooks / reserves; textbooks / reserves -> request books; request books -> how do i borrow materials from another library?; how do i borrow materials from another library? -> interlibrary loan request form
+10,5,library website -> services for students -> ask a librarian -> contact page -> chat,Yes,3,0,3,
+10,6,library website -> research -> databases a-z -> databases page -> subjects -> types -> academic search complete -> academic search,Yes,3,3,6,databases page -> subjects; subjects -> types; types -> academic search complete
+11,1,library website -> today's hours -> opening hours page,Yes,1,0,1,
+11,2,library website -> use the library -> study spaces -> study spaces page -> next -> space x time,No,4,0,4,
+11,3,library website -> research -> use the library -> one search -> search -> book page -> scope -> textbooks -> search -> book,Yes,2,6,8,library website -> research; research -> use the library; use the library -> one search; book page -> scope; scope -> textbooks; search -> book
+11,4,library website -> textbooks -> one search -> search -> book page -> book -> 24/7 ask a librarian,No,2,3,5,library website -> textbooks; textbooks -> one search; book -> 24/7 ask a librarian
+11,5,library website -> ask a librarian,Yes,1,0,1,
+11,6,library website -> one search -> research guides -> go to a-z list -> databases page -> academic search complete -> academic search,Yes,3,2,5,library website -> one search; one search -> research guides
+12,1,library website -> about -> visit the library -> use the library -> ask a librarian,No,1,3,4,about -> visit the library; visit the library -> use the library; use the library -> ask a librarian
+12,2,library website -> use the library -> study spaces -> study spaces page -> next -> space x time -> end time -> submit,Yes,6,0,6,
+12,3,library website -> one search -> search -> book page -> book,Yes,3,0,3,
+12,4,library website -> one search -> search -> book page -> book -> sign in -> request item -> pick up location -> send request,Yes,7,0,7,
+12,5,library webiste -> text,Yes,1,0,1,library webiste -> text
+12,6,library website -> one search -> research -> databases a-z -> databases page -> academic search complete -> academic search,Yes,3,2,5,library website -> one search; one search -> research

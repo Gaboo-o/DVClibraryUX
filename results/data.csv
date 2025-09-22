@@ -1,0 +1,77 @@
+﻿Participant,Age,Task #,Completed,Time (min),Procedure
+1,55+,1,TRUE,3,Library Website -> Today's Hours -> Opening Hours Page
+1,55+,2,FALSE,,Library Website -> Study Spaces (Tile) -> Study Spaces Page -> Go To Date -> Space x Time (Tile)
+1,55+,3,FALSE,,Library Website -> Use the Library (Hover Menu) -> Textbooks -> Use the Library (Hover Menu) -> Textbooks -> One Search (Search Bar) -> Search -> Book Page
+1,55+,4,TRUE,4,Library Website -> Use the Library (Hover Menu) -> Textbooks -> Use the Library (Hover Menu) -> Textbooks -> One Search (Search Bar) -> Search -> Book Page -> Scope (Dropdown) -> Books and Videos on the Library Shelves -> Search (Icon) -> Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request
+1,55+,5,TRUE,5,Library Website -> Use the Library (Hover Menu) -> Services for Students -> Request Info -> Return (Browser Icon) -> Ask a Librarian -> Contact Page -> Chat
+1,55+,6,TRUE,3,Library Website -> One Search (Seach Bar) -> Search -> Book Page -> Databases -> Databases Page -> Academic Search Complete -> Academic Search (Icon)
+2,55+,1,TRUE,5,Library Website -> Services for Students -> Use the Library (Hover Menu) -> About (Hover Menu) -> Visit the Library -> Use the Library (Hover Menu) -> Study Spaces -> Study Spaces Page -> About (Hover Menu) -> About the Library -> Hours -> Opening Hours Page
+2,55+,2,TRUE,3,Library Website -> Services for Students -> Reserve a Study Space -> Study Rooms -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> End Time (Dropdown) -> Submit 
+2,55+,3,FALSE,,"Library Website -> Use the Library (Hover Menu) -> Borrow Library Materials -> Use the Library (Hover Menu) -> Services for Students -> Interlibrary Loan -> Library ->
+Library Website -> One Search (Search Bar) -> Search -> Book Page -> Personalize (Toggle)"
+2,55+,4,FALSE,,Library Website -> One Search (Search Bar) -> Search -> Book Page
+2,55+,5,TRUE,5,Library Website -> About (Hover Menu) -> Contact Us -> Contact Page -> Email
+2,55+,6,TRUE,5,Library Website -> Research (Hover Menu) -> Databases A-Z -> Databases Page -> Academic Search Complete -> Academic Search (Icon)
+3,15-24,1,TRUE,3,Library Website -> Services for Faculties -> Library (Home Button) -> Library Website -> Today's Hours -> Opening Hours Page
+3,15-24,2,TRUE,1,Library Website -> Study Spaces (Tile) -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> Submit 
+3,15-24,3,TRUE,2,Library Website -> Textbooks (Search Bar) -> Search -> Book Page -> Course Name (Filter) -> Apply Filters -> Book
+3,15-24,4,TRUE,1,"Library Website -> Textbooks (Search Bar) -> Search -> Book Page -> Scope (Dropdown) -> Books and Videos on the Library Shelves -> Search (Icon) ->
+Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request "
+3,15-24,5,TRUE,0.2,Library Website -> Connect with DVC Library -> Contact Page -> Email
+3,15-24,6,TRUE,3,Library Website -> One Search (Search Bar) -> Search -> Databases -> Databases Page -> Academic Search Complete -> Academic Search (Icon)
+4,35-44,1,TRUE,1,Library Website -> Today's Hours -> Opening Hours Page
+4,35-44,2,FALSE,,Library Website -> Study Spaces (Tile) -> Study Spaces Page -> Go To Date -> Next -> Space x Time (Tile) -> Refresh (Browser Icon) -> Study Spaces Page -> Go To Date -> Next -> Space x Time (Tile) -> Submit
+4,35-44,3,TRUE,6,Library Website -> Study Spaces (Tile) -> Study Spaces Page -> Use the Library (Hover Menu) -> Textbooks -> One Search (Search Bar) -> Search -> Book Page -> Search (Icon) -> New Search -> Databases -> Databases Page -> Subjects (Dropdown) -> English -> Types (Dropdown) -> Books -> Search -> Library (Home Button) -> Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book
+4,35-44,4,TRUE,2,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request
+4,35-44,5,TRUE,2,Library Website -> About (Hover Menu) -> Contact Us -> Contact Page -> Call
+4,35-44,6,FALSE,,"Library Website -> Research (Hover Menu) -> Databases A-Z -> Databases Page -> Subjects (Dropdown) -> Biological Sciences -> Search -> Clear Filters -> B (Filter) ->
+Research (Hover Menu) -> Research Help -> Ask a Librarian -> Contact Page -> Chat -> Book Page "
+5,25-34,1,TRUE,2,Library Website -> Today's Hours -> Opening Hours Page
+5,25-34,2,TRUE,3.2,Library Website -> Use the Library (Hover Menu) -> Study Spaces -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> Submit
+5,25-34,3,TRUE,5.5,Library Website -> Use the Library (Hover Menu) -> Borrow Library Materials -> Use the Library (Hover Menu) -> Textbooks -> One Search (Search Bar) -> Search -> Book Page -> Scope (Dropdown) -> Everything -> Search (Icon) -> Book Page -> Book
+5,25-34,4,TRUE,1.3,Book Page -> Scope (Dropdown) -> Books and Videos on the Library Shelves -> Search Bar -> Search (Icon) -> Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request
+5,25-34,5,FALSE,,Library Website -> Events Link (Footer) -> Events Page
+5,25-34,6,TRUE,1.4,Library Website -> Research (Hover Menu) -> Databases A-Z -> Databases Page -> Academic Search Complete -> Academic Search (Icon)
+6,15-24,1,TRUE,1,Library Website -> Today's Hours -> Opening Hours Page
+6,15-24,2,TRUE,3.7,Library Website -> Study Spaces (Tile) -> Study Spaces Page -> Go To Date -> Space x Time (Tile) -> Submit
+6,15-24,3,TRUE,1.4,Library Website -> Textbooks (Search Bar) -> Search -> Book Page -> Book
+6,15-24,4,TRUE,2.2,Book Page -> Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request
+6,15-24,5,TRUE,3,Library Website -> Email (Icon) -> Phone (icon)
+6,15-24,6,FALSE,,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Article
+7,15-24,1,TRUE,1,Library Website -> Today's Hours -> Opening Hours Page
+7,15-24,2,TRUE,3,Library Website -> Study Spaces (Tile) -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> End Time (Dropdown) -> Submit 
+7,15-24,3,TRUE,2,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book
+7,15-24,4,TRUE,4,Library Website -> Services for Students -> Interlibrary Loan -> Interlibrary Loan Request Form -> Return (Browser Icon) -> Library (Home Button) -> One Search (Search Bar) -> Search -> Book Page -> Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request
+7,15-24,5,TRUE,3,Library Website -> Connect with DVC Library -> Contact Page -> Call
+7,15-24,6,TRUE,2.5,Library Website -> Services for Students -> Databases A-Z -> Academic Search Complete -> Academic Search (Icon)
+8,15-24,1,FALSE,1.3,Library Website -> Study Spaces (Tile) -> Study Spaces Page
+8,15-24,2,TRUE,2.5,Library Website -> Study Spaces (Tile) -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> End Time (Dropdown) -> Submit 
+8,15-24,3,TRUE,1.8,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book
+8,15-24,4,TRUE,2.5,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request
+8,15-24,5,TRUE,3.8,Library Website -> Connect with DVC Library -> Contact Page -> Email
+8,15-24,6,TRUE,1.5,Library Website -> Services for Students -> Databases A-Z -> Academic Search Complete -> Academic Search (Icon)
+9,15-24,1,TRUE,1.7,Library Website -> About (Hover Menu) -> Today's Hours -> Opening Hours Page
+9,15-24,2,TRUE,1.7,Library Website -> Use the Library (Hover Menu) -> Study Spaces -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> End Time (Dropdown) -> Submit
+9,15-24,3,TRUE,0.7,Library Website -> Textbooks (Search Bar) -> Search -> Book Page -> Book
+9,15-24,4,FALSE,,Library Website -> Use the Library (Hover Menu) -> Borrow Library Materials -> How do I borrow materials from another library? -> Interlibrary Loan Request Form
+9,15-24,5,TRUE,1.5,Library Website -> About (Hover Menu) -> Contact Us -> Contact Page -> Call
+9,15-24,6,FALSE,,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Article
+10,55+,1,FALSE,,Library Website -> About (Hover Menu) -> Visit the Library -> Return (Browser Icon) -> Library Website
+10,55+,2,TRUE,3.3,Library Website -> Services for Students -> Reserve a Study Space -> Study Rooms -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> End Time (Dropdown) -> Submit 
+10,55+,3,TRUE,2,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book
+10,55+,4,FALSE,,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Textbooks / Reserves -> Request Books -> How do I borrow materials from another library? -> Interlibrary Loan Request Form
+10,55+,5,TRUE,3,Library Website -> Services for Students -> Ask a Librarian -> Contact Page -> Chat
+10,55+,6,TRUE,5,Library Website -> Research (Hover Menu) -> Databases A-Z -> Databases Page -> Subjects (Dropdown) -> Types (Dropdown) -> Academic Search Complete -> Academic Search (Icon)
+11,35-44,1,TRUE,1,Library Website -> Today's Hours -> Opening Hours Page
+11,35-44,2,FALSE,,Library Website -> Use the Library (Hover Menu) -> Study Spaces -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile)
+11,35-44,3,TRUE,3,Library Website -> Research (Hover Menu) -> Use the Library (Hover Menu) -> One Search (Search Bar) -> Search -> Book Page -> Scope (Dropdown) -> Textbooks -> Search (Icon) -> Book
+11,35-44,4,FALSE,,Library Website -> Textbooks (Search Bar) -> One Search (Search Bar) -> Search -> Book Page -> Book -> 24/7 Ask a Librarian
+11,35-44,5,TRUE,1,Library Website -> Ask a Librarian
+11,35-44,6,TRUE,1.6,Library Website -> One Search (Advanced Search) -> Research Guides -> Go to A-Z List -> Databases Page -> Academic Search Complete -> Academic Search (Icon)
+12,25-34,1,FALSE,,Library Website -> About (Hover Menu) -> Visit the Library -> Use the Library (Hover Menu) -> Ask a Librarian
+12,25-34,2,TRUE,3.8,Library Website -> Use the Library (Hover Menu) -> Study Spaces -> Study Spaces Page -> Next (Icon) -> Space x Time (Tile) -> End Time (Dropdown) -> Submit
+12,25-34,3,TRUE,1,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book
+12,25-34,4,TRUE,1,Library Website -> One Search (Search Bar) -> Search -> Book Page -> Book -> Sign In -> Request Item -> Pick Up Location (Dropdown) -> Send Request
+12,25-34,5,TRUE,6,Library Webiste -> Text (Icon)
+12,25-34,6,TRUE,2.5,Library Website -> One Search (Search Bar) -> Research (Hover Menu) -> Databases A-Z -> Databases Page -> Academic Search Complete -> Academic Search (Icon)
+,,,,,
